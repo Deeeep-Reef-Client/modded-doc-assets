@@ -1,6 +1,3 @@
-# doc-assets  
+# modded-assets  
 
-doc assets  
-
-Original by Doctorpus <https://github.com/The-Doctorpus/doc-assets>  
-Modified for the Deeeep.io Reef Client.  
+The Deeeep.io Reef Client's modified assets  
